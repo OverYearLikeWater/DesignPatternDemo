@@ -1,2 +1,2 @@
-# Illustration
-学习用例
+# DesignPatternDemo
+设计模式学习用例
